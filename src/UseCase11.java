@@ -1,8 +1,8 @@
 import java.util.*;
 
-public class UseCase10 {
+public class UseCase11 {
     public static void main(String[] args) {
         System.out.println("=== Train Consist Management App ===");
-        System.out.println("Running UseCase10...");
+        System.out.println("Running UseCase11...");
     }
 }
